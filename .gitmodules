@@ -1,0 +1,3 @@
+[submodule "public/github.com/Note"]
+	path = public/github.com/Note
+	url = git@github.com:AarioAi/Note.git
